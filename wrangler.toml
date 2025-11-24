@@ -1,6 +1,0 @@
-name = "blog"
-# The Jekyll output directory
-pages_build_output_dir = "./_site"
-
-# Optional: Add any Pages Functions source directory if you use them
-# functions = { directory = "functions" }
